@@ -64,12 +64,6 @@ landscape:
             logo: fauna.svg
             crunchbase: 'https://www.crunchbase.com/organization/fauna'
           - item:
-            name: Hasura GraphQL Engine
-            homepage_url: 'https://hasura.io'
-            repo_url: 'https://github.com/hasura/graphql-engine'
-            logo: 'https://landscape.cncf.io/logos/hasura-graph-ql-engine.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/hasura'
-          - item:
             name: Neo4j
             homepage_url: 'https://neo4j.com/'
             repo_url: 'https://github.com/neo4j/neo4j'
@@ -98,6 +92,12 @@ landscape:
             homepage_url: 'https://aws.amazon.com/appsync/'
             logo: appsync.svg
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+          - item:
+            name: Hasura GraphQL Engine
+            homepage_url: 'https://hasura.io'
+            repo_url: 'https://github.com/hasura/graphql-engine'
+            logo: 'https://landscape.cncf.io/logos/hasura-graph-ql-engine.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/hasura'            
   - category:
     name: GraphQL Foundation Member
     subcategories:
